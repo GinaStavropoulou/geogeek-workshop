@@ -1,0 +1,10 @@
+jupyterlab
+matplotlib
+numpy
+geopandas
+fiona
+folium
+seaborn
+osmnx
+rioxarray
+raster

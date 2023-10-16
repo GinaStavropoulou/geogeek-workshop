@@ -18,4 +18,10 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-## Start up 
+Then get started with 
+
+```
+jupyter lab
+```
+
+This will open n your browser where you can pick the notebook of Exercise 1 to begin. 

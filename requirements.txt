@@ -3,9 +3,7 @@ matplotlib
 numpy
 geopandas
 fiona
+rasterio
+scikit-image
 folium
 seaborn
-osmnx
-rioxarray
-raster
-scikit-image

@@ -1,5 +1,13 @@
-# Requirements:
-A machine with python3.8 or higher
+
+
+# Session 4: geo-Python (Jupyter, Numpy, GeoPandas, Matplotlib)
+
+Instructors: Lukas Beuster & Gina Stavropoulou
+
+
+# Requirements: 
+
+A computer with python3.8 or higher
 
 
 # Getting Started:
@@ -7,14 +15,16 @@ A machine with python3.8 or higher
 You will need to use your terminal on Linux/MacOS or your PowerShell on Windows. 
 
 
-##  Clone the repo:
+##  Clone the repo
 
 ```bash
 git clone https://github.com/GinaStavropoulou/geogeek-workshop.git
 cd geogeek-workshop
 ```
 
-## Setting up an environment
+or use GitHub Desktop.
+
+## Set up an environment
 
 ### Create a virtual environment:
 ```
@@ -33,7 +43,7 @@ Windows:
 .venv\Scripts\Activate.ps1
 ```
 
-### Install requirements:
+### Install the requirements:
 ```bash
 pip install -r requirements.txt
 ```
@@ -44,4 +54,4 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-This will open jupyter on your browser where you can pick the notebook of Exercise 1 to start with. 
+This will open jupyter lab on your browser. You can choose the notebook of Exercise 0 to start with. 

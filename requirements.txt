@@ -7,3 +7,4 @@ rasterio
 scikit-image
 folium
 seaborn
+mapclassify

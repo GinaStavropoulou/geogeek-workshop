@@ -6,3 +6,4 @@
 *.venv
 **/.DS_Store
 data/raw_data/CBS_WIJKKAART_2022_VERSIE1.csv
+results/
